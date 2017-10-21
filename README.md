@@ -53,6 +53,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/brunophilipe/TipTyper
 - **Visual Studio Code**: Cross-platform code editor built in GitHub's Electron framework
   - https://github.com/Microsoft/vscode
+  
+  https://www.imore.com/best-writing-apps-mac
 
 ### Web Browsers
 - **Firefox**: Cross-platform web browser
